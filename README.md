@@ -8,8 +8,6 @@ The goal is to demonstrate how **extreme events (outliers)** can naturally emerg
 
 Through simulation and statistical analysis, the project illustrates several well-known empirical features of financial markets, particularly the presence of **fat tails** in return distributions.
 
----
-
 ## Objectives
 
 The main objectives of this project are:
@@ -21,7 +19,6 @@ The main objectives of this project are:
 * Test for **power-law behavior** in the tails
 * Verify the absence of **autocorrelation** and **volatility clustering**
 
----
 ## Tools and Libraries
 The analysis was conducted using Python with the following libraries:  
 - **pandas**: for time series manipulation.  
@@ -29,7 +26,6 @@ The analysis was conducted using Python with the following libraries:
 - **matplotlib**: for visualizations of distributions and time series.  
 - **scipy** and **statsmodels**: for statistical tests, regressions, and autocorrelation analysis.
 
----
 ## Key Findings
 
 The simulations reveal several important results:
@@ -42,7 +38,6 @@ The simulations reveal several important results:
 
 These results demonstrate that **heavy-tailed distributions alone can generate extreme market events**, even in the absence of temporal correlations.
 
----
 ## References
 - Mantegna, R. & Stanley, H. *An Introduction to Econophysics*. Cambridge University Press.  
 - MIT OpenCourseWare: *Mathematics in Applications to Finance*.  
