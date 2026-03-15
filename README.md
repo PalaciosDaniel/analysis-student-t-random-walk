@@ -42,8 +42,3 @@ These results demonstrate that **heavy-tailed distributions alone can generate e
 - Mantegna, R. & Stanley, H. *An Introduction to Econophysics*. Cambridge University Press.  
 - MIT OpenCourseWare: *Mathematics in Applications to Finance*.  
 
-
-## References
-
-Some concepts explored in this project are inspired by research in **econophysics and quantitative finance**, particularly work on heavy-tailed distributions and financial market statistics.
-
